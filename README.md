@@ -4,6 +4,7 @@
 
   <p align="center">
     A project I made to make it beep when my dog was on the porch (his bathroom).
+    <br />
     :warning: If I had to do it again, I would use ultrasonic sensor instead of VL53L0X, because it works better in the dark.:warning:
     <br />
     <br />
@@ -34,9 +35,10 @@
   </ol>
 </details>
 
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+https://user-images.githubusercontent.com/22106326/188333202-d2fcdfac-8c87-434c-b8e7-aff0ebde3c7a.mp4
 
 <div align="center">
   <a href="https://github.com/xandao6/the-pet-passed">
@@ -54,6 +56,7 @@
 
 * [Arduino](https://www.arduino.cc/) - Arduino programming language
 * [Wemos D1 Mini](https://www.wemos.cc/en/latest/d1/d1_mini.html) - ESP12F microcontroller (based on ESP8266)
+* [VL53L0X](https://www.pololu.com/product/2490) - Mini linear lidar sensor
 * [Buzzer](https://www.adafruit.com/product/160) - Piezo Buzzer
 
 <!-- ROADMAP -->
