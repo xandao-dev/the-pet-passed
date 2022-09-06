@@ -1,21 +1,19 @@
 <br />
 <p align="center">
   <h3 align="center">The Pet Passed</h3>
-
   <p align="center">
     A project I made to make it beep when my dog was on the porch (his bathroom).
     <br />
     :warning: If I had to do it again, I would use ultrasonic sensor instead of VL53L0X, because it works better in the dark.:warning:
     <br />
     <br />
-    <a href="https://github.com/xandao6/the-pet-passed"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/xandao-dev/the-pet-passed"><strong>Explore the docs »</strong></a>
     <br />
-    <a href="https://github.com/xandao6/the-pet-passed/issue">Report Bug</a>
+    <a href="https://github.com/xandao-dev/the-pet-passed/issue">Report Bug</a>
     ·
-    <a href="https://github.com/xandao6/the-pet-passed/issues">Request Feature</a>
+    <a href="https://github.com/xandao-dev/the-pet-passed/issues">Request Feature</a>
   </p>
 </p>
-
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -41,7 +39,7 @@
 https://user-images.githubusercontent.com/22106326/188333202-d2fcdfac-8c87-434c-b8e7-aff0ebde3c7a.mp4
 
 <div align="center">
-  <a href="https://github.com/xandao6/the-pet-passed">
+  <a href="https://github.com/xandao-dev/the-pet-passed">
     <img src="./assets/the-pet-passed.jpeg" alt="dog alarm final">
     <img src="./assets/dog-alarm.png" alt="prototype">
   </a>
@@ -62,7 +60,7 @@ https://user-images.githubusercontent.com/22106326/188333202-d2fcdfac-8c87-434c-
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/xandao6/the-pet-passed/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/xandao-dev/the-pet-passed/issues) for a list of proposed features (and known issues).
 
 <!-- CONTRIBUTING -->
 ## Contributing
@@ -85,6 +83,6 @@ Free software =)
 <!-- CONTACT -->
 ## Contact
 
-Alexandre Calil - [@xandao6](https://www.linkedin.com/in/xandao6/) - alexandrecalilmf@gmail.com
+Alexandre Calil - [Linkedin](https://www.linkedin.com/in/xandao-dev/) - [alexandre@xandao.dev](mailto:alexandre@xandao.dev)
 
-Project Link: [https://github.com/xandao6/the-pet-passed](https://github.com/xandao6/the-pet-passed)
+Project Link: [https://github.com/xandao-dev/the-pet-passed](https://github.com/xandao-dev/the-pet-passed)
